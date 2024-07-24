@@ -4,6 +4,9 @@
     <img src="https://komarev.com/ghpvc/?username=LeoDoak&color=green" alt="">
 </div>
 
+![Leo Doak's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDoak)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDoak&layout=compact)
+
 ## Interests: 
 ### Programming Langauges: 
 <p>
@@ -17,5 +20,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40" />
 </p>
 
-![Leo Doak's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDoak)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDoak&layout=compact)
+
