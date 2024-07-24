@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=LeoDoak&color=green" alt="">
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDoak&layout=compact)
 
 ## Interests: 
 ### Programming Langauges: 
