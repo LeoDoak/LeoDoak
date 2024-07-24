@@ -1,12 +1,8 @@
 ## About me 
 Recent computer science graduate looking forward to joining the workforce. Interested in data science, statistics, and software development.
 
-![](https://komarev.com/ghpvc/?username=LeoDoak)
+![](https://komarev.com/ghpvc/?username=LeoDoak&color=green)
 
-## Experience: 
+## Interests: 
 * Programming Langauges - Python, R, SAS, SQL, C++, Java
-* Python Frameworks - Flask
-* Python Libraries - Numpy, Matplotlib, Panda 
-* APIs - Microsoft Graph
-* C++ Libraries - GLEW, OpenGL, GLFW 
 
