@@ -1,7 +1,7 @@
 ## About me 
 Recent computer science graduate looking forward to joining the workforce. Interested in data science, statistics, and software development.
 
-<p align="left"> <img src="https://github.com/LeoDoak/?username=qpeckin&label=Profile%20views&color=ba0bea&style=flat" alt="LeoDoak" /> </p>
+![](https://komarev.com/ghpvc/?username=LeoDoak)
 
 ## Experience: 
 * Programming Langauges - Python, R, SAS, SQL, C++, Java
