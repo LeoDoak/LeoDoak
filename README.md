@@ -6,3 +6,4 @@ Recent computer science graduate looking forward to joining the workforce. Inter
 ## Interests: 
 * Programming Langauges - Python, R, SAS, SQL, C++, Java
 
+![image](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
