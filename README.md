@@ -1,6 +1,9 @@
-<h1 style="text-align: center;">About Me </h1>
-<p style="text-align:center;">Recent computer science graduate looking forward to joining the workforce. Interested in data science, statistics, and software development. </p>
-<img align="middle" src="https://komarev.com/ghpvc/?username=LeoDoak&color=green" alt="">
+<h1 style="text-align:center;">About Me</h1>
+<p style="text-align:center;">Recent computer science graduate looking forward to joining the workforce. Interested in data science, statistics, and software development.</p>
+<div style="text-align:center;">
+    <img src="https://komarev.com/ghpvc/?username=LeoDoak&color=green" alt="">
+</div>
+
 
 
 ## Interests: 
